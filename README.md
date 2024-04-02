@@ -4,3 +4,6 @@
 
 # 运行
 go run main.go -img test1.jpg
+
+# 输出示例
+![image](outExample.png)
